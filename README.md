@@ -1,1 +1,1 @@
-AP Computer Science A @ rrhs
+AP Computer Science A @ RRHS
