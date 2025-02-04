@@ -39,5 +39,4 @@ public class Name
             return middleName.compareTo(otherName.getMiddleName());
         }
     }
-
 }

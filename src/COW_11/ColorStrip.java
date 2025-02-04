@@ -1,3 +1,5 @@
+package COW_11;
+
 import java.awt.*;
 
 public class ColorStrip
