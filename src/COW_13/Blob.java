@@ -17,7 +17,7 @@ public class Blob
     
     //returns the x coordinate of the blob
     public int getX(){
-
+        
     }
     
     //returns the y coordinate of the blob
